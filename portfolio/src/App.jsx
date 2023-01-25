@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import './App.css'
+
 
 function App() {
   const [count, setCount] = useState(0)
@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <p>Future Portfolio website</p>
+      <p>Test</p>
     </div>
   )
 }
