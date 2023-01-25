@@ -4,6 +4,9 @@ module.exports = {
   darkMode: 'class',
   theme: {
     extend: {
+      colors: {
+        'light-blue': 'rgba(207,237,238,255)',
+      },
       fontFamily: {
         inter: ['inter', 'serif'],
       }
