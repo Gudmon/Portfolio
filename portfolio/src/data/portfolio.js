@@ -7,7 +7,7 @@ export default [
     },
     {
         title: "Developer Portfolio",
-        imgUrl: "",
+        imgUrl: "/assets/Portfolio.png",
         stack: ["React", "Tailwind", "Vite"],
         link: "https://github.com/Gudmon/Portfolio"
     },
