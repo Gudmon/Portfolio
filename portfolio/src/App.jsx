@@ -1,14 +1,21 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+import React from "react";
+import Intro from "./components/Intro";
+import Timeline from "./components/Timeline";
+import Portfolio from "./components/Portfolio";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
+
 
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <div className="App">
-      <p>Future Portfolio website</p>
-      <p>Test</p>
+      <Intro />
+      <Portfolio />
+      <Timeline />
+      <Contact />
+      <Footer />
     </div>
   )
 }
