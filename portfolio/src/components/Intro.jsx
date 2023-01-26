@@ -11,6 +11,9 @@ function Intro() {
          I am enthusiastic about my work and always looking for new challenges to improve my craft.<br/>
          I hope you enjoy exploring my portfolio and feel free to reach out with any opportunities or questions.<br/>      
         </p>
+        <a href="/assets/CV_GM_2.pdf" download="CV_GM.pdf"> 
+         <button>CV</button>
+        </a>
       </div>
    )
 }
