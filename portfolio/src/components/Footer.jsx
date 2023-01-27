@@ -7,8 +7,9 @@ function Footer() {
 					<div>
 						<div className="flex flex-wrap justify-center gap-2">
 							<a 
+								target="_blank"
 								href="https://linkedin.com/in/marcell-gudmon"
-								className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full">
+								className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full hover:scale-125 transition duration-300 ease-in-out">
 								<svg
 								className="w-5 h-5 fill-current"
 								role="img"
@@ -21,8 +22,9 @@ function Footer() {
 								</svg>
 							</a>							
 							<a 
+								target="_blank"
 								href="https://github.com/gudmon"
-								className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full">
+								className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full hover:scale-125 transition duration-300 ease-in-out">
 								<svg
 								xmlns="http://www.w3.org/2000/svg"
 								xmlnsXlink="http://www.w3.org/1999/xlink"
